@@ -1,0 +1,968 @@
+Uri: https://levector.com/
+File Name: D:\WEB\levector.com\index.htm
+Content Type: text/html
+
+Uri: https://levector.com/alejandro-carreno
+File Name: D:\WEB\levector.com\alejandro-carreno.html
+Content Type: text/html
+
+Uri: https://levector.com/animacion-2d
+File Name: D:\WEB\levector.com\animacion-2d.html
+Content Type: text/html
+
+Uri: https://levector.com/blog
+File Name: D:\WEB\levector.com\blog.html
+Content Type: text/html
+
+Uri: https://levector.com/cine-contenido
+File Name: D:\WEB\levector.com\cine-contenido.html
+Content Type: text/html
+
+Uri: https://levector.com/contacto
+File Name: D:\WEB\levector.com\contacto.html
+Content Type: text/html
+
+Uri: https://levector.com/corporativos
+File Name: D:\WEB\levector.com\corporativos.html
+Content Type: text/html
+
+Uri: https://levector.com/css/styles.css
+File Name: D:\WEB\levector.com\css\styles.css
+Content Type: text/css
+
+Uri: https://levector.com/digital
+File Name: D:\WEB\levector.com\digital.html
+Content Type: text/html
+
+Uri: https://levector.com/en/
+File Name: D:\WEB\levector.com\en\index.htm
+Content Type: text/html
+
+Uri: https://levector.com/en/alejandro-carreno
+File Name: D:\WEB\levector.com\en\alejandro-carreno.html
+Content Type: text/html
+
+Uri: https://levector.com/en/animacion-2d
+File Name: D:\WEB\levector.com\en\animacion-2d.html
+Content Type: text/html
+
+Uri: https://levector.com/en/blog
+File Name: D:\WEB\levector.com\en\blog.html
+Content Type: text/html
+
+Uri: https://levector.com/en/cine-contenido
+File Name: D:\WEB\levector.com\en\cine-contenido.html
+Content Type: text/html
+
+Uri: https://levector.com/en/contacto
+File Name: D:\WEB\levector.com\en\contacto.html
+Content Type: text/html
+
+Uri: https://levector.com/en/corporativos
+File Name: D:\WEB\levector.com\en\corporativos.html
+Content Type: text/html
+
+Uri: https://levector.com/en/david-pimentel
+File Name: D:\WEB\levector.com\en\david-pimentel.html
+Content Type: text/html
+
+Uri: https://levector.com/en/digital
+File Name: D:\WEB\levector.com\en\digital.html
+Content Type: text/html
+
+Uri: https://levector.com/en/fede-martirene
+File Name: D:\WEB\levector.com\en\fede-martirene.html
+Content Type: text/html
+
+Uri: https://levector.com/en/franco-verdoia
+File Name: D:\WEB\levector.com\en\franco-verdoia.html
+Content Type: text/html
+
+Uri: https://levector.com/en/gina-medina
+File Name: D:\WEB\levector.com\en\gina-medina.html
+Content Type: text/html
+
+Uri: https://levector.com/en/oliver-garland
+File Name: D:\WEB\levector.com\en\oliver-garland.html
+Content Type: text/html
+
+Uri: https://levector.com/en/otros-directores
+File Name: D:\WEB\levector.com\en\otros-directores.html
+Content Type: text/html
+
+Uri: https://levector.com/en/pepe-garrido
+File Name: D:\WEB\levector.com\en\pepe-garrido.html
+Content Type: text/html
+
+Uri: https://levector.com/en/pipe-delgado
+File Name: D:\WEB\levector.com\en\pipe-delgado.html
+Content Type: text/html
+
+Uri: https://levector.com/en/postproduccion
+File Name: D:\WEB\levector.com\en\postproduccion.html
+Content Type: text/html
+
+Uri: https://levector.com/en/quienes-somos
+File Name: D:\WEB\levector.com\en\quienes-somos.html
+Content Type: text/html
+
+Uri: https://levector.com/en/recursos
+File Name: D:\WEB\levector.com\en\recursos.html
+Content Type: text/html
+
+Uri: https://levector.com/en/reels
+File Name: D:\WEB\levector.com\en\reels.html
+Content Type: text/html
+
+Uri: https://levector.com/en/servicios_produccion
+File Name: D:\WEB\levector.com\en\servicios_produccion.html
+Content Type: text/html
+
+Uri: https://levector.com/en/spots-publicitarios
+File Name: D:\WEB\levector.com\en\spots-publicitarios.html
+Content Type: text/html
+
+Uri: https://levector.com/fav.png
+File Name: D:\WEB\levector.com\fav.png
+Content Type: image/png
+
+Uri: https://levector.com/fede-martirene
+File Name: D:\WEB\levector.com\fede-martirene.html
+Content Type: text/html
+
+Uri: https://levector.com/fonts/GothamPro-Black.ttf
+File Name: D:\WEB\levector.com\fonts\GothamPro-Black.ttf
+Content Type: font/ttf
+
+Uri: https://levector.com/fonts/GothamPro-Black.woff
+File Name: D:\WEB\levector.com\fonts\GothamPro-Black.woff
+Content Type: application/font-woff
+
+Uri: https://levector.com/fonts/GothamPro-Black.woff2
+File Name: D:\WEB\levector.com\fonts\GothamPro-Black.woff2
+Content Type: font/woff2
+
+Uri: https://levector.com/fonts/GothamPro-Medium.ttf
+File Name: D:\WEB\levector.com\fonts\GothamPro-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://levector.com/fonts/GothamPro-Medium.woff
+File Name: D:\WEB\levector.com\fonts\GothamPro-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://levector.com/fonts/GothamPro-Medium.woff2
+File Name: D:\WEB\levector.com\fonts\GothamPro-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://levector.com/fonts/GothamPro.ttf
+File Name: D:\WEB\levector.com\fonts\GothamPro.ttf
+Content Type: font/ttf
+
+Uri: https://levector.com/fonts/GothamPro.woff
+File Name: D:\WEB\levector.com\fonts\GothamPro.woff
+Content Type: application/font-woff
+
+Uri: https://levector.com/fonts/GothamPro.woff2
+File Name: D:\WEB\levector.com\fonts\GothamPro.woff2
+Content Type: font/woff2
+
+Uri: https://levector.com/franco-verdoia
+File Name: D:\WEB\levector.com\franco-verdoia.html
+Content Type: text/html
+
+Uri: https://levector.com/from-core-to-sun
+File Name: D:\WEB\levector.com\from-core-to-sun.html
+Content Type: text/html
+
+Uri: https://levector.com/galapagos-evolution
+File Name: D:\WEB\levector.com\galapagos-evolution.html
+Content Type: text/html
+
+Uri: https://levector.com/gina-medina
+File Name: D:\WEB\levector.com\gina-medina.html
+Content Type: text/html
+
+Uri: https://levector.com/img/1-PILSENER-ARRIBA-MI-PILSENER-5SEG.mp4
+File Name: D:\WEB\levector.com\img\1-PILSENER-ARRIBA-MI-PILSENER-5SEG.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/1-xs.jpg
+File Name: D:\WEB\levector.com\img\1-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/1.jpg
+File Name: D:\WEB\levector.com\img\1.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/10-xs.jpg
+File Name: D:\WEB\levector.com\img\10-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/10.jpg
+File Name: D:\WEB\levector.com\img\10.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/11-xs.jpg
+File Name: D:\WEB\levector.com\img\11-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/11.jpg
+File Name: D:\WEB\levector.com\img\11.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/2-LA-FAVORITA-CREA-TU-VERSION-FAVORITA.mp4
+File Name: D:\WEB\levector.com\img\2-LA-FAVORITA-CREA-TU-VERSION-FAVORITA.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/2-xs.jpg
+File Name: D:\WEB\levector.com\img\2-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/2.jpg
+File Name: D:\WEB\levector.com\img\2.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/3-MOVISTAR-ECUADOR-NOS-MUEVE.mp4
+File Name: D:\WEB\levector.com\img\3-MOVISTAR-ECUADOR-NOS-MUEVE.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/4-NESCAFE-TRADICION.mp4
+File Name: D:\WEB\levector.com\img\4-NESCAFE-TRADICION.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/4-xs.jpg
+File Name: D:\WEB\levector.com\img\4-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/4.jpg
+File Name: D:\WEB\levector.com\img\4.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/5-GIRASOL-CORAPLUS.mp4
+File Name: D:\WEB\levector.com\img\5-GIRASOL-CORAPLUS.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/6-xs.jpg
+File Name: D:\WEB\levector.com\img\6-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/6.jpg
+File Name: D:\WEB\levector.com\img\6.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/acolite-03.svg
+File Name: D:\WEB\levector.com\img\acolite-03.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/ALEJANDROCARRENO.mp4
+File Name: D:\WEB\levector.com\img\ALEJANDROCARRENO.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/all-you-need-ecuador.png
+File Name: D:\WEB\levector.com\img\all-you-need-ecuador.png
+Content Type: image/png
+
+Uri: https://levector.com/img/bg-home-fcts.png
+File Name: D:\WEB\levector.com\img\bg-home-fcts.png
+Content Type: image/png
+
+Uri: https://levector.com/img/BLUE-SQUAD-BOTON.jpg
+File Name: D:\WEB\levector.com\img\BLUE-SQUAD-BOTON.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/cardinalXD-logo.png
+File Name: D:\WEB\levector.com\img\cardinalXD-logo.png
+Content Type: image/png
+
+Uri: https://levector.com/img/close.svg
+File Name: D:\WEB\levector.com\img\close.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/cressi-logo.png
+File Name: D:\WEB\levector.com\img\cressi-logo.png
+Content Type: image/png
+
+Uri: https://levector.com/img/cross-white.svg
+File Name: D:\WEB\levector.com\img\cross-white.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/DAVIDPIMENTEL.mp4
+File Name: D:\WEB\levector.com\img\DAVIDPIMENTEL.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/director-roberto-ochoa.jpg
+File Name: D:\WEB\levector.com\img\director-roberto-ochoa.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/estrella-navarro.jpg
+File Name: D:\WEB\levector.com\img\estrella-navarro.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/FEDEMARTIRENE.mp4
+File Name: D:\WEB\levector.com\img\FEDEMARTIRENE.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/filmingecuador-02.svg
+File Name: D:\WEB\levector.com\img\filmingecuador-02.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/Filming_in_Ecuador_ES.mp4
+File Name: D:\WEB\levector.com\img\Filming_in_Ecuador_ES.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/film_in_ecuador_levector_en.mp4
+File Name: D:\WEB\levector.com\img\film_in_ecuador_levector_en.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/footer-pix.svg
+File Name: D:\WEB\levector.com\img\footer-pix.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/FRANCOVERDOIA.mp4
+File Name: D:\WEB\levector.com\img\FRANCOVERDOIA.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/from-core-to-sun.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun1.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun1.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun10.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun10.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun11.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun11.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun12.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun12.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun13.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun13.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun14.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun14.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun15.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun15.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun16.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun16.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun17.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun17.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun18.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun18.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun19.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun19.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun2.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun2.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun20.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun20.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun21.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun21.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun22.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun22.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun23.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun23.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun24.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun24.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun25.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun25.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun26.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun26.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun3.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun3.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun4.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun4.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun5.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun5.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun6.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun6.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun7.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun7.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun8.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun8.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/from-core-to-sun9.jpg
+File Name: D:\WEB\levector.com\img\from-core-to-sun9.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution-banner.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution-logo.png
+File Name: D:\WEB\levector.com\img\galapagos-evolution-logo.png
+Content Type: image/png
+
+Uri: https://levector.com/img/galapagos-evolution1.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution1.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution10.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution10.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution11.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution11.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution12.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution12.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution13.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution13.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution14.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution14.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution15.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution15.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution16.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution16.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution17.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution17.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution18.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution18.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution19.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution19.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution2.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution2.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution20.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution20.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution21.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution21.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution22.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution22.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution23.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution23.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution24.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution24.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution25.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution25.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution26.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution26.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution27.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution27.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution28.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution28.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution29.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution29.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution3.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution3.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution30.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution30.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution4.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution4.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution5.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution5.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution6.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution6.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution7.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution7.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos-evolution9.jpg
+File Name: D:\WEB\levector.com\img\galapagos-evolution9.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/galapagos.jpg
+File Name: D:\WEB\levector.com\img\galapagos.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/GINAMEDINA.mp4
+File Name: D:\WEB\levector.com\img\GINAMEDINA.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/go-pro.png
+File Name: D:\WEB\levector.com\img\go-pro.png
+Content Type: image/png
+
+Uri: https://levector.com/img/guillaume.jpg
+File Name: D:\WEB\levector.com\img\guillaume.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/ideas-51.svg
+File Name: D:\WEB\levector.com\img\ideas-51.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/itunes-store.png
+File Name: D:\WEB\levector.com\img\itunes-store.png
+Content Type: image/png
+
+Uri: https://levector.com/img/JOAQUINCAMBRE.mp4
+File Name: D:\WEB\levector.com\img\JOAQUINCAMBRE.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/JUANGAMBAR.mp4
+File Name: D:\WEB\levector.com\img\JUANGAMBAR.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/leo-morales.jpg
+File Name: D:\WEB\levector.com\img\leo-morales.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/levector-films.png
+File Name: D:\WEB\levector.com\img\levector-films.png
+Content Type: image/png
+
+Uri: https://levector.com/img/Levector_37 CashBack_EN.pdf
+File Name: D:\WEB\levector.com\img\Levector_37 CashBack_EN.pdf
+Content Type: application/pdf
+
+Uri: https://levector.com/img/Levector_37 CashBack_ES.pdf
+File Name: D:\WEB\levector.com\img\Levector_37 CashBack_ES.pdf
+Content Type: application/pdf
+
+Uri: https://levector.com/img/load.svg
+File Name: D:\WEB\levector.com\img\load.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/logo-banco-pacifico-300x54.png
+File Name: D:\WEB\levector.com\img\logo-banco-pacifico-300x54.png
+Content Type: image/png
+
+Uri: https://levector.com/img/logo-from-core-to-sun.png
+File Name: D:\WEB\levector.com\img\logo-from-core-to-sun.png
+Content Type: image/png
+
+Uri: https://levector.com/img/logo-gravitas.png
+File Name: D:\WEB\levector.com\img\logo-gravitas.png
+Content Type: image/png
+
+Uri: https://levector.com/img/logo-guitg.png
+File Name: D:\WEB\levector.com\img\logo-guitg.png
+Content Type: image/png
+
+Uri: https://levector.com/img/LUJANISLAS.mp4
+File Name: D:\WEB\levector.com\img\LUJANISLAS.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/Millan-Ludena.jpg
+File Name: D:\WEB\levector.com\img\Millan-Ludena.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/natalie-parra.jpg
+File Name: D:\WEB\levector.com\img\natalie-parra.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/nosotros1.jpg
+File Name: D:\WEB\levector.com\img\nosotros1.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/nosotros2.jpg
+File Name: D:\WEB\levector.com\img\nosotros2.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/nosotros3.jpg
+File Name: D:\WEB\levector.com\img\nosotros3.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/nosotros4.jpg
+File Name: D:\WEB\levector.com\img\nosotros4.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/nosotros5.jpg
+File Name: D:\WEB\levector.com\img\nosotros5.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/nosotros6.jpg
+File Name: D:\WEB\levector.com\img\nosotros6.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/nosotros7-xs.jpg
+File Name: D:\WEB\levector.com\img\nosotros7-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/nosotros7.jpg
+File Name: D:\WEB\levector.com\img\nosotros7.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/ocean-ramsey.jpg
+File Name: D:\WEB\levector.com\img\ocean-ramsey.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/oliver-gardland-director.jpg
+File Name: D:\WEB\levector.com\img\oliver-gardland-director.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/OLIVERGARLAND.mp4
+File Name: D:\WEB\levector.com\img\OLIVERGARLAND.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/open-menu.svg
+File Name: D:\WEB\levector.com\img\open-menu.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/pelayo.jpg
+File Name: D:\WEB\levector.com\img\pelayo.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/PEPEGARRIDO.mp4
+File Name: D:\WEB\levector.com\img\PEPEGARRIDO.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/pierre-cousteau.jpg
+File Name: D:\WEB\levector.com\img\pierre-cousteau.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/PIPEDELGADO.mp4
+File Name: D:\WEB\levector.com\img\PIPEDELGADO.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/prime-video.png
+File Name: D:\WEB\levector.com\img\prime-video.png
+Content Type: image/png
+
+Uri: https://levector.com/img/REELLEVECTOR.mp4
+File Name: D:\WEB\levector.com\img\REELLEVECTOR.mp4
+Content Type: video/mp4
+
+Uri: https://levector.com/img/resources-bg.jpg
+File Name: D:\WEB\levector.com\img\resources-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services-02.svg
+File Name: D:\WEB\levector.com\img\services-02.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services-03.svg
+File Name: D:\WEB\levector.com\img\services-03.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services-04.svg
+File Name: D:\WEB\levector.com\img\services-04.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services-05.svg
+File Name: D:\WEB\levector.com\img\services-05.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services-06.svg
+File Name: D:\WEB\levector.com\img\services-06.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services-07.svg
+File Name: D:\WEB\levector.com\img\services-07.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services-08.svg
+File Name: D:\WEB\levector.com\img\services-08.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services-09.svg
+File Name: D:\WEB\levector.com\img\services-09.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services-10.svg
+File Name: D:\WEB\levector.com\img\services-10.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services-11-02.svg
+File Name: D:\WEB\levector.com\img\services-11-02.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services-12-02.svg
+File Name: D:\WEB\levector.com\img\services-12-02.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services-13-02.svg
+File Name: D:\WEB\levector.com\img\services-13-02.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services-14-02.svg
+File Name: D:\WEB\levector.com\img\services-14-02.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/services1-sm.jpg
+File Name: D:\WEB\levector.com\img\services1-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services1.jpg
+File Name: D:\WEB\levector.com\img\services1.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services2-sm.jpg
+File Name: D:\WEB\levector.com\img\services2-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services2.jpg
+File Name: D:\WEB\levector.com\img\services2.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services3-sm.jpg
+File Name: D:\WEB\levector.com\img\services3-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services3.jpg
+File Name: D:\WEB\levector.com\img\services3.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services4-sm.jpg
+File Name: D:\WEB\levector.com\img\services4-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services4.jpg
+File Name: D:\WEB\levector.com\img\services4.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services5-sm.jpg
+File Name: D:\WEB\levector.com\img\services5-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services5.jpg
+File Name: D:\WEB\levector.com\img\services5.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services6-sm.jpg
+File Name: D:\WEB\levector.com\img\services6-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services6.jpg
+File Name: D:\WEB\levector.com\img\services6.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services7-sm.jpg
+File Name: D:\WEB\levector.com\img\services7-sm.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/services7.jpg
+File Name: D:\WEB\levector.com\img\services7.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/servicios_produccion1.jpg
+File Name: D:\WEB\levector.com\img\servicios_produccion1.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/servicios_produccion2.jpg
+File Name: D:\WEB\levector.com\img\servicios_produccion2.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/servicios_produccion3.jpg
+File Name: D:\WEB\levector.com\img\servicios_produccion3.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/servicios_produccion4.jpg
+File Name: D:\WEB\levector.com\img\servicios_produccion4.jpg
+Content Type: image/jpeg
+
+Uri: https://levector.com/img/social-07.svg
+File Name: D:\WEB\levector.com\img\social-07.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/social-08.svg
+File Name: D:\WEB\levector.com\img\social-08.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/social-09.svg
+File Name: D:\WEB\levector.com\img\social-09.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/social-10.svg
+File Name: D:\WEB\levector.com\img\social-10.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/social-11.svg
+File Name: D:\WEB\levector.com\img\social-11.svg
+Content Type: image/svg+xml
+
+Uri: https://levector.com/img/vimeo-logo.png
+File Name: D:\WEB\levector.com\img\vimeo-logo.png
+Content Type: image/png
+
+Uri: https://levector.com/joaquin-cambre
+File Name: D:\WEB\levector.com\joaquin-cambre.html
+Content Type: text/html
+
+Uri: https://levector.com/js/main.js
+File Name: D:\WEB\levector.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://levector.com/juan-gamba
+File Name: D:\WEB\levector.com\juan-gamba.html
+Content Type: text/html
+
+Uri: https://levector.com/lujan-islas
+File Name: D:\WEB\levector.com\lujan-islas.html
+Content Type: text/html
+
+Uri: https://levector.com/manifest.json
+File Name: D:\WEB\levector.com\manifest.json
+Content Type: application/json
+
+Uri: https://levector.com/oliver-garland
+File Name: D:\WEB\levector.com\oliver-garland.html
+Content Type: text/html
+
+Uri: https://levector.com/otros-directores
+File Name: D:\WEB\levector.com\otros-directores.html
+Content Type: text/html
+
+Uri: https://levector.com/pepe-garrido
+File Name: D:\WEB\levector.com\pepe-garrido.html
+Content Type: text/html
+
+Uri: https://levector.com/pipe-delgado
+File Name: D:\WEB\levector.com\pipe-delgado.html
+Content Type: text/html
+
+Uri: https://levector.com/player/1032482082/en/
+File Name: D:\WEB\levector.com\player\1032482082\en\index.htm
+Content Type: text/html
+
+Uri: https://levector.com/player/1032482082/La Favorita - Andrés Crespo
+File Name: D:\WEB\levector.com\player\1032482082\La Favorita - Andrés Crespo.html
+Content Type: text/html
+
+Uri: https://levector.com/player/1053108403/en/
+File Name: D:\WEB\levector.com\player\1053108403\en\index.htm
+Content Type: text/html
+
+Uri: https://levector.com/player/1053108403/Pilsener - Arriba mi Pilsener
+File Name: D:\WEB\levector.com\player\1053108403\Pilsener - Arriba mi Pilsener.html
+Content Type: text/html
+
+Uri: https://levector.com/player/1069725679/en/
+File Name: D:\WEB\levector.com\player\1069725679\en\index.htm
+Content Type: text/html
+
+Uri: https://levector.com/player/1069725679/Nescafé - Tradición5
+File Name: D:\WEB\levector.com\player\1069725679\Nescafé - Tradición5.html
+Content Type: text/html
+
+Uri: https://levector.com/player/1069793510/en/
+File Name: D:\WEB\levector.com\player\1069793510\en\index.htm
+Content Type: text/html
+
+Uri: https://levector.com/player/1069793510/Girasol - Coraplus
+File Name: D:\WEB\levector.com\player\1069793510\Girasol - Coraplus.html
+Content Type: text/html
+
+Uri: https://levector.com/player/1075395426/en/
+File Name: D:\WEB\levector.com\player\1075395426\en\index.htm
+Content Type: text/html
+
+Uri: https://levector.com/player/1075395426/Movistar - Ecuador nos mueve
+File Name: D:\WEB\levector.com\player\1075395426\Movistar - Ecuador nos mueve.html
+Content Type: text/html
+
+Uri: https://levector.com/postproduccion
+File Name: D:\WEB\levector.com\postproduccion.html
+Content Type: text/html
+
+Uri: https://levector.com/quienes-somos
+File Name: D:\WEB\levector.com\quienes-somos.html
+Content Type: text/html
+
+Uri: https://levector.com/recursos
+File Name: D:\WEB\levector.com\recursos.html
+Content Type: text/html
+
+Uri: https://levector.com/reels
+File Name: D:\WEB\levector.com\reels.html
+Content Type: text/html
+
+Uri: https://levector.com/servicios_produccion
+File Name: D:\WEB\levector.com\servicios_produccion.html
+Content Type: text/html
+
+Uri: https://levector.com/spots-publicitarios
+File Name: D:\WEB\levector.com\spots-publicitarios.html
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: D:\WEB\levector.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-F0Q91S995X
+File Name: D:\WEB\levector.com\gtag\js
+Content Type: application/javascript
+
